@@ -1,0 +1,40 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color: #004455;
+	background-color: #3a3a3a;
+}
+
+#container {
+	margin-top: 80px;
+	padding: 20px;
+	width:50%;
+	height:30%;
+	background: #fff;
+	border-radius: 5px;
+	display: inline-block;
+}
+
+
+h1 {
+	color: #212626;
+	font-size: 160%;
+}
+
+p {
+  font-size: 80%;
+  margin-bottom: 30px;
+}
+
+button {
+	font-family: 'Roboto', sans-serif;
+    font-size: 90%;
+    color:  #004455;
+    text-align: center;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+}
+
+button:hover {
+	color: #ccd9dd;
+}
